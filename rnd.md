@@ -25,13 +25,13 @@
 
 Parken in rotterdam centraal
 
-het park
 museumpark
+grotekerkplein
 kruisplein
 pompenburg
+het park
 sin-jacobs park
 wijkpark oude westen
-grotekerkplein
 grotemarktpark
 binnentuin stadhuis
 oostpleinpark
