@@ -1,5 +1,7 @@
 # Programmeren 7 Eindopdracht
 
+Deadline: 1 juli 2022 17:00
+Herkansing: 26 aug 2022 17:00
 
 ## Requirements
 
@@ -11,7 +13,7 @@
 - [ ] passende naam
 - [ ] beschrijvende comments in de code
 - [ ] app is verdeeld in componenten die in aparte bestanden staan
-- [ ] json data uit een web api
+- [ ] json data uit een web api (zelfgemaakte api)
 - [ ] gegevens lokaal opgeslagen
 - [ ] informatie ook in een lijstweergave
 - [ ] verschillende layout modussen aanpaspaar via settings (min 2)
@@ -19,7 +21,25 @@
 - [ ] huidige locatie
 - [ ] parameters tussen verschillende schermen
 
+- [ ] screencast 5-10 min demo & uitleg
+- [ ] inleveren zip met code & link screencast
+
 ## Todo
+- [ ] init repo & project
+- [ ] moodboard & simpele styleguide (verzin name, ook darktheme)
+- [ ] wireframe design 
+- [ ] zelfgemaakte webapi met data
+- [ ] add lijst van hotspots
+- [ ] add map
+- [ ] add current location
+- [ ] add hotspots to map
+- [ ] implement info per hotspot
+- [ ] implement local data saved
+- [ ] add dark theme selector
+
+- [ ] check requirements
+- [ ] screencast demo & uitleg
+- [ ] inleveren
 
 ## Ideeen
 
