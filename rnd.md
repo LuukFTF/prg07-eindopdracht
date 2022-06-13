@@ -25,7 +25,7 @@ Herkansing: 26 aug 2022 17:00
 - [ ] inleveren zip met code & link screencast
 
 ## Todo
-- [ ] init repo & project
+- [o] init repo & project
 - [ ] moodboard & simpele styleguide (verzin name, ook darktheme)
 - [ ] wireframe design 
 - [ ] zelfgemaakte webapi met data
