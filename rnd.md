@@ -25,8 +25,8 @@ Herkansing: 26 aug 2022 17:00
 - [ ] inleveren zip met code & link screencast
 
 ## Todo
-- [o] init repo & project
-- [ ] moodboard & simpele styleguide (verzin name, ook darktheme)
+- [x] init repo & project
+- [x] moodboard & simpele styleguide (verzin name, ook darktheme)
 - [ ] wireframe design 
 - [ ] zelfgemaakte webapi met data
 - [ ] add lijst van hotspots
@@ -43,7 +43,7 @@ Herkansing: 26 aug 2022 17:00
 
 ## Ideeen
 
-Parken in rotterdam centraal
+Parken in rotterdam centrum
 
 museumpark
 grotekerkplein
@@ -58,3 +58,11 @@ oostpleinpark
 ze hielden koers park
 litenpark
 skatepark westblaak
+
+## Naam
+
+Rotterdam Parks
+
+Parkz
+
+RoffaParkz
